@@ -1,0 +1,14 @@
+body {
+    background-color: rgba(1, 94, 148, 0.315);
+}
+
+p {
+    font-size: 18px;
+    color: red;
+}
+
+.card-header {
+    background-color: #198754;
+    color: #fff;
+}
+
